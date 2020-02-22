@@ -1,6 +1,6 @@
 # Docker development environment
 
-PHP7, PSQL, NGINX  docker development environment
+PHP7, PostgreSQL, NGINX  docker development environment
 
 ## PHP version
 
